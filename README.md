@@ -3,12 +3,12 @@
 ## Train
 
 ```
-python train.py --dataset COURSE_CODE 
+python train.py
 ```
 
 Detailed arguments description is given in train.py.
 
 ## Test
 ```
-python .../SRLSTM/train.py --phase test 
+python train.py --phase test 
 ```
