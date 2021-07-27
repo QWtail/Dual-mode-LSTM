@@ -1,5 +1,7 @@
 '''
 Main Models
+Author: Wei QIU
+Date: 20/07/2021
 '''
 
 from utils import *
