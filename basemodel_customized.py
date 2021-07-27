@@ -1,3 +1,8 @@
+'''
+Basic models
+Author: Wei QIU
+Date: 20/07/2021
+'''
 import math
 import torch
 import numpy as np
